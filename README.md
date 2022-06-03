@@ -21,4 +21,4 @@ Coding Steps:
 - In this class instantiate an instance of each of your logger classes that implement the Logger interface.
 - Test both methods on both instances, passing in Strings of your choice.
 
-[BESD Week 5 Coding Assignment.docx](https://github.com/jprengaman/BESD-Week-5/files/8835414/BESD.Week.5.Coding.Assignment.docx)
+[BESD Week 5 Coding Assignment.docx](https://github.com/jprengaman/BESD-Week-5/files/8835425/BESD.Week.5.Coding.Assignment.docx)
